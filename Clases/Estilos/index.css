@@ -94,6 +94,16 @@ a.boton:hover{
     background-color: red;
 }
 
+@media (min-width : 400px ) and (max-width : 800px) {
+    h1 {
+        color: red;
+    }
+
+    img {
+        width: 100%;
+    }
+}
+
 
 
 
